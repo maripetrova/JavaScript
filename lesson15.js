@@ -17,7 +17,7 @@ let ibanArr = {
     1: 2,
     2: "Банан"
 }
-//console.log(iban.length);
+//console.log(iban.length); 
 //console.log(iban[3]);
 iban[13] = "Igor";
 //console.log(iban[10]);
