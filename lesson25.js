@@ -18,7 +18,6 @@ const changeLetter = (char, key) => {
 const getN = (ma = 11, mi = 0) => Math.floor(Math.random() * (ma - mi) + mi);
 
 let newWord = "", key = getN(-50, 50);
-}
 console.log(newWord);
 
 
