@@ -1,7 +1,3 @@
-/*
-
-
-*/
 function Fruit(d, f) {
 this.diameter = d;
 this.weight = +(this.diameter * 12).toFixed(2);
